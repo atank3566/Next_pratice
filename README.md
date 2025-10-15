@@ -1,6 +1,6 @@
 # 🚀 Next.js Starter Project
 
-> Next.js 기반 프로젝트 초기 세팅
+> Next.js 기반 프로젝트 초기 세팅, **실제 동작하는 데모프로젝트 X**
 
 ## 📌 기술 스택
 - **Framework**: [Next.js 15 (App Router)](https://nextjs.org/docs/app)
